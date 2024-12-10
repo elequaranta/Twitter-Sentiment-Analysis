@@ -10,13 +10,13 @@ For more details, please refer to the *Twitter Sentiment Analysis.pdf* file.
 
 ## Files: 
 * **Finetuning notebooks**:
-- BERTweet_finetuned_final.ipynb: BERTweet fine-tuning (double model for two classes)
-- BERTweet_finetuned_unique.ipynb: BERTweet fine-tuning (single model for both classes)
+  - BERTweet_finetuned_final.ipynb: BERTweet fine-tuning (double model for two classes)
+  - BERTweet_finetuned_unique.ipynb: BERTweet fine-tuning (single model for both classes)
 
 * **Baseline models**:
-- BERTweet_baseline.ipynb: BERTweet model predictions (no fine-tuning)
-- RoBERTa_baseline.ipynb: RoBERTa model predictions (no fine-tuning)
-- VADER_baseline.ipynb: VADER model predictions (no fine-tuning)
+  - BERTweet_baseline.ipynb: BERTweet model predictions (no fine-tuning)
+  - RoBERTa_baseline.ipynb: RoBERTa model predictions (no fine-tuning)
+  - VADER_baseline.ipynb: VADER model predictions (no fine-tuning)
 
 * data_clean.ipynb: data preprocessing and cleaning
 * Twitter Sentiment Analysis.pdf: project report with detailed explanations and reasoning
